@@ -1,0 +1,7 @@
+.app{
+  display: grid;
+  grid-template-rows: 80px auto;
+}
+.main {
+  margin-top: 70px; /* Adjust this value to match your navbar height */
+}
